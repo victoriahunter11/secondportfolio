@@ -1,10 +1,9 @@
 import React from "react";
-import { Link } from "react-router-dom";
-import './header.css';
+import './hero.css';
 
 
 // Depending on the current path, this component sets the "active" class on the appropriate navigation link item
-function Header() {
+function Hero() {
   return (
 
  
@@ -17,4 +16,4 @@ function Header() {
 
 }
 
-export default Header;
+export default Hero;

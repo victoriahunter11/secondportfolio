@@ -3,7 +3,7 @@ import React from "react";
 function Contact() {
     return (
         
-    <div class="container">
+    <div class="container" style={{height: 800}}>
     <div class="row">
       <div class="col-lg-8 mx-auto">
         <h2>Contact Info</h2>

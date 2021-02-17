@@ -31,6 +31,13 @@ section {
   font-family:'Raleway', sans-serif !important;
 }
 
+#mainFooter {
+  background-color:#074952;
+  color:white;
+  height: 60px;
+  font-family:'Raleway', sans-serif !important;
+}
+
 .lead {
   color:#074952;
   font-family:'Work Sans', sans-serif !important;
