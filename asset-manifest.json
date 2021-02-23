@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/secondportfolio/static/css/main.fe8c84a9.chunk.css",
+    "main.js": "/secondportfolio/static/js/main.de380d0b.chunk.js",
+    "main.js.map": "/secondportfolio/static/js/main.de380d0b.chunk.js.map",
+    "runtime-main.js": "/secondportfolio/static/js/runtime-main.028672c0.js",
+    "runtime-main.js.map": "/secondportfolio/static/js/runtime-main.028672c0.js.map",
+    "static/css/2.150d169a.chunk.css": "/secondportfolio/static/css/2.150d169a.chunk.css",
+    "static/js/2.711c57eb.chunk.js": "/secondportfolio/static/js/2.711c57eb.chunk.js",
+    "static/js/2.711c57eb.chunk.js.map": "/secondportfolio/static/js/2.711c57eb.chunk.js.map",
+    "static/js/3.adb4ca88.chunk.js": "/secondportfolio/static/js/3.adb4ca88.chunk.js",
+    "static/js/3.adb4ca88.chunk.js.map": "/secondportfolio/static/js/3.adb4ca88.chunk.js.map",
+    "index.html": "/secondportfolio/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/secondportfolio/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.fe8c84a9.chunk.css.map": "/secondportfolio/static/css/main.fe8c84a9.chunk.css.map",
+    "static/js/2.711c57eb.chunk.js.LICENSE.txt": "/secondportfolio/static/js/2.711c57eb.chunk.js.LICENSE.txt",
+    "static/media/2020BootcampResume21.22779183.pdf": "/secondportfolio/static/media/2020BootcampResume21.22779183.pdf",
+    "static/media/AustinSearch.29e80293.png": "/secondportfolio/static/media/AustinSearch.29e80293.png",
+    "static/media/Justpick.ff203651.png": "/secondportfolio/static/media/Justpick.ff203651.png",
+    "static/media/codecarnival.dbe71699.png": "/secondportfolio/static/media/codecarnival.dbe71699.png",
+    "static/media/codequizTest.804c1d0b.png": "/secondportfolio/static/media/codequizTest.804c1d0b.png",
+    "static/media/employee.6acfaa6f.png": "/secondportfolio/static/media/employee.6acfaa6f.png",
+    "static/media/fitnesstracker.8cc9eb4e.png": "/secondportfolio/static/media/fitnesstracker.8cc9eb4e.png",
+    "static/media/me.37347229.png": "/secondportfolio/static/media/me.37347229.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.028672c0.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.711c57eb.chunk.js",
+    "static/css/main.fe8c84a9.chunk.css",
+    "static/js/main.de380d0b.chunk.js"
+  ]
+}
