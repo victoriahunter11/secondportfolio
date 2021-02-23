@@ -1,4 +1,5 @@
 import React from "react";
+import Pdf from "../imgs/2020BootcampResume21.pdf";
 
 function Contact() {
     return (
@@ -17,8 +18,7 @@ function Contact() {
           <strong><a href="https://www.linkedin.com/in/victoria-hunter-a71798154">LinkedIn</a></strong><br/>
            
           <strong><a href="https://github.com/victoriahunter11">GitHub</a></strong><br/>
-          <a href="/Assets/Images/2020BootcampResume2.pdf" download>Resume</a>
-        </p>
+          <a href = {Pdf} target = "_blank">Download Resume Pdf</a>        </p>
       </div>
     </div>
   </div>
