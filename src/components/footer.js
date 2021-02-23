@@ -8,7 +8,7 @@ function Footer() {
 
     <footer className="footer" id="mainFooter">
  
-      <p>2021</p>
+      <p>2021 - UNC Full Stack Bootcamp</p>
  </footer>
   );
 }
