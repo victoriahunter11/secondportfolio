@@ -5,6 +5,7 @@ import Justpick from "../imgs/Justpick.png";
 import AustinSearch from "../imgs/AustinSearch.png";
 import codecarnival from "../imgs/codecarnival.png";
 import fitnesstracker from "../imgs/fitnesstracker.png";
+import employee from "../imgs/employee.png";
 
 
 
@@ -55,7 +56,7 @@ function Portfolio() {
                 <li>CSS</li>
                 <li>HTML</li>
               </ul>
-              <strong><a href="https://michaelwitt.github.io/Code-Carnival/">Deployed Website</a></strong><br/>
+              <strong><a href="https://code-carnival.herokuapp.com/">Deployed Website</a></strong><br/>
                
               <strong><a href="https://github.com/MichaelWitt/Code-Carnival">Github repository</a></strong><br/>
   
@@ -120,11 +121,11 @@ function Portfolio() {
               </ul>
               <strong><a href="https://workout-tracker-vjh.herokuapp.com">Deployed Website</a></strong><br/>
                
-              <strong><a href="https://github.com/victoriahunter11/fitness-tracker">Github repository</a></strong><br/>
+              <strong><a href="https://github.com/victoriahunter11/workout-tracker">Github repository</a></strong><br/>
   
               </p>
              <div class="column">
-                <img src="src/Images/codequizTest.png" alt="Placeholder" class="img-thumbnail mr-sm-2"/>
+                <img src={employee} alt="Placeholder" class="img-thumbnail mr-sm-2"/>
                 <br/> <br/>
                  <p class="title">Employee Tracker</p> 
                 </div>
